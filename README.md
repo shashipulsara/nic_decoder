@@ -26,32 +26,4 @@ SL Advanced NIC Decoder is a Flutter application that decodes Sri Lankan Nationa
 
 ---
 
-## Getting Started
 
-Follow these instructions to set up the project locally:
-
-### Prerequisites
-
-- Flutter SDK 
-- Dart SDK
-- A code editor such as VS Code
-
-### Steps
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Madhawa17/Book-Store-flutter.git
-   cd Bookstore-app
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the App**:
-   ```bash
-   flutter run
-   ```
-
----
